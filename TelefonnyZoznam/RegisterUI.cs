@@ -10,6 +10,9 @@ namespace TelefonnyZoznam
 {
     class RegisterUI
     {        
+        /// <summary>
+        /// vytvaram register
+        /// </summary>
         Register register = new Register();
 
         public void OpenRegister()
